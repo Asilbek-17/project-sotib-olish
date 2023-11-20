@@ -25,7 +25,7 @@ body {
   position: absolute;
   z-index: 999;
   top: 80px;
-  left: calc(50% - 125px);
+  left: calc(50% - 103px);
 }
 
 .wrapper {
@@ -199,6 +199,7 @@ body {
 .box {
   display: none;
   width: 300px;
+  justify-content: center;
 }
 .box-2 {
   width: 100%;
